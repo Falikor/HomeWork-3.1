@@ -11,6 +11,10 @@
 		E551AC1526B00C2E003A90E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551AC1426B00C2E003A90E3 /* ContentView.swift */; };
 		E551AC1726B00C30003A90E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E551AC1626B00C30003A90E3 /* Assets.xcassets */; };
 		E551AC1A26B00C30003A90E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E551AC1926B00C30003A90E3 /* Preview Assets.xcassets */; };
+		E551AC2426B02BB9003A90E3 /* ColorCircl.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551AC2326B02BB9003A90E3 /* ColorCircl.swift */; };
+		E551AC2626B03C08003A90E3 /* ColorCirclRed.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551AC2526B03C08003A90E3 /* ColorCirclRed.swift */; };
+		E551AC2826B03C54003A90E3 /* ColorCirclYellow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551AC2726B03C54003A90E3 /* ColorCirclYellow.swift */; };
+		E551AC2A26B03C68003A90E3 /* ColorCirclGreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E551AC2926B03C68003A90E3 /* ColorCirclGreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +24,10 @@
 		E551AC1626B00C30003A90E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E551AC1926B00C30003A90E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E551AC1B26B00C30003A90E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E551AC2326B02BB9003A90E3 /* ColorCircl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircl.swift; sourceTree = "<group>"; };
+		E551AC2526B03C08003A90E3 /* ColorCirclRed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCirclRed.swift; sourceTree = "<group>"; };
+		E551AC2726B03C54003A90E3 /* ColorCirclYellow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCirclYellow.swift; sourceTree = "<group>"; };
+		E551AC2926B03C68003A90E3 /* ColorCirclGreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCirclGreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				E551AC1626B00C30003A90E3 /* Assets.xcassets */,
 				E551AC1B26B00C30003A90E3 /* Info.plist */,
 				E551AC1826B00C30003A90E3 /* Preview Content */,
+				E551AC2326B02BB9003A90E3 /* ColorCircl.swift */,
+				E551AC2526B03C08003A90E3 /* ColorCirclRed.swift */,
+				E551AC2726B03C54003A90E3 /* ColorCirclYellow.swift */,
+				E551AC2926B03C68003A90E3 /* ColorCirclGreen.swift */,
 			);
 			path = "HomeWork-3.1";
 			sourceTree = "<group>";
@@ -138,7 +150,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E551AC2826B03C54003A90E3 /* ColorCirclYellow.swift in Sources */,
 				E551AC1526B00C2E003A90E3 /* ContentView.swift in Sources */,
+				E551AC2A26B03C68003A90E3 /* ColorCirclGreen.swift in Sources */,
+				E551AC2626B03C08003A90E3 /* ColorCirclRed.swift in Sources */,
+				E551AC2426B02BB9003A90E3 /* ColorCircl.swift in Sources */,
 				E551AC1326B00C2E003A90E3 /* HomeWork_3_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
